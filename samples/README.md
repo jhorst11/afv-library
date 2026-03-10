@@ -41,3 +41,11 @@ Source is synced from the npm package [@salesforce/webapp-template-app-react-sam
 ### Version tracking
 
 The file `samples/webapp-template-app-react-sample-b2x-experimental/.version` stores the last-synced npm version. The Action compares it to the latest on npm and only creates a PR when they differ.
+
+## native-mobile-rental-tenant-app
+
+A sample Custom Agentic Mobile App (CAMA) for rental property tenants. This sample is maintained directly in this repository (not synced from npm). It provides a scaffold for building native mobile apps with Salesforce Mobile Publisher, MCF, and SharedUI.
+
+### How it's used
+
+The sample appears on the Agentforce Vibes welcome page under the **Mobile** app type. Users can clone it via the welcome page wizard or directly from this repo.
